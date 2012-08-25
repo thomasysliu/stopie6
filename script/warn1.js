@@ -38,11 +38,11 @@ if(typeof jQuery =='undefined')
 loadjscssfile('css/jqModal.css','css');
 
 
-var br1 = "Mozilla Firefox 3.5+";
-var br2 = "Google Chrome 2.0+";
-var br3 = "Opera 10+";
-var br4 = "Safari 3+";
-var br5 = "Internet Explorer 7+";
+var br1 = "Mozilla Firefox 15+";
+var br2 = "Google Chrome 21.0+";
+var br3 = "Opera 12+";
+var br4 = "Safari 6+";
+var br5 = "Internet Explorer 8+";
 var url1 = "http://gfx.tw/";
 var url2 = "http://www.google.com/chrome";
 var url3 = "http://www.opera.com/download/";
